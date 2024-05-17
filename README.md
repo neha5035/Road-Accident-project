@@ -2,6 +2,8 @@
 
 The primary objective of this project is to understand the overall Road accidents Scenario for year 2021 and 2022.
 
+Tools used: Microsoft Excel, Microsoft Power BI
+
 Steps includes:
 1. Data Cleaning
 2. Data Processing
